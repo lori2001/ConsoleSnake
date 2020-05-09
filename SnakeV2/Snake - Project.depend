@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1438811480 source:d:\programozás\snake\updated\snake.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"unchangeable vars.h"
+	"maps.h"
+	"savegame IO.h"
+	"options IO.h"
+	"commands.h"
+
+1438810819 d:\programozás\snake\updated\unchangeable vars.h
+
+1436822816 d:\programozás\snake\updated\maps.h
+
+1436563030 d:\programozás\snake\updated\savegame io.h
+
+1428176469 d:\programozás\snake\updated\options io.h
+
+1438812365 d:\programozás\snake\updated\commands.h
+
+1438811480 source:c:\users\lorixd\desktop\snake\snake.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"unchangeable vars.h"
+	"maps.h"
+	"savegame IO.h"
+	"options IO.h"
+	"commands.h"
+
+1438810819 c:\users\lorixd\desktop\snake\unchangeable vars.h
+
+1436822816 c:\users\lorixd\desktop\snake\maps.h
+
+1436563030 c:\users\lorixd\desktop\snake\savegame io.h
+
+1428176469 c:\users\lorixd\desktop\snake\options io.h
+
+1438812365 c:\users\lorixd\desktop\snake\commands.h
+

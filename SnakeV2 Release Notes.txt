@@ -1,0 +1,20 @@
+-Arcade Map 5, now has a spider that wants to kill you
+-Obstacle can't apear on front of you when you start
+-The 'Prees Enter'information is no longer moving, when the score changes
+-New scoring
+-New sounds added
+-Anti-cheat added --I know, nobody will ever want to cheat in this game, but its cool :D :))--
+-Objectives available
+-Debugging
+
+-BUGFIXES/SOURCE PROGRAM READABILITY INCREASED
+
+Pls like/subscribe my channel to support me on my projects
+
+
+                            /*  //                 //             ///////  //                 ///////   */
+                            /*  //     //  //      //             //   //                     //   //   */
+                            /*  //      ///        //       //    ///////  //     //    //    //    //  */
+                            /*  /////    //        //     //  //  // //    //       ////      //    //  */
+                            /*  // //    //        //     //  //  //  //   //       ////      //   //   */
+                            /*  /////   //         //////   //    //   //  //     //    //    //////    */
