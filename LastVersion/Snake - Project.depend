@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1471168475 source:d:\programozás\snake\updated\snake.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"unchangeable vars.h"
+	"maps.h"
+	"savegame IO.h"
+	"options IO.h"
+	"commands.h"
+
+1450742654 d:\programozás\snake\updated\unchangeable vars.h
+
+1436822816 d:\programozás\snake\updated\maps.h
+
+1438886268 d:\programozás\snake\updated\savegame io.h
+
+1438886268 d:\programozás\snake\updated\options io.h
+
+1458393558 d:\programozás\snake\updated\commands.h
+
+1484565810 source:d:\programozás\solo programs\snake\updated\snake.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"unchangeable vars.h"
+	"maps.h"
+	"savegame IO.h"
+	"options IO.h"
+	"commands.h"
+
+1450742654 d:\programozás\solo programs\snake\updated\unchangeable vars.h
+
+1436822816 d:\programozás\solo programs\snake\updated\maps.h
+
+1438886268 d:\programozás\solo programs\snake\updated\savegame io.h
+
+1438886268 d:\programozás\solo programs\snake\updated\options io.h
+
+1458393558 d:\programozás\solo programs\snake\updated\commands.h
+
+1484562210 source:d:\loris\workspace\visualstudio\unlisted\mygames\snake\updated\snake.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"unchangeable vars.h"
+	"maps.h"
+	"savegame IO.h"
+	"options IO.h"
+	"commands.h"
+
+1450739054 d:\loris\workspace\visualstudio\unlisted\mygames\snake\updated\unchangeable vars.h
+
+1436822816 d:\loris\workspace\visualstudio\unlisted\mygames\snake\updated\maps.h
+
+1438886268 d:\loris\workspace\visualstudio\unlisted\mygames\snake\updated\savegame io.h
+
+1438886268 d:\loris\workspace\visualstudio\unlisted\mygames\snake\updated\options io.h
+
+1458389958 d:\loris\workspace\visualstudio\unlisted\mygames\snake\updated\commands.h
+

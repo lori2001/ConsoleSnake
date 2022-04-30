@@ -1168,7 +1168,7 @@ void display()
        }
        else if (base[y][x] == foodicon)
        {
-        text_color(14);
+        text_color(10);
        }
        else
        {
